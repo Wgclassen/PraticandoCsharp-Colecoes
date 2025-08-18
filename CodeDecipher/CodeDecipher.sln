@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeDecipher", "CodeDecipher\CodeDecipher.csproj", "{907D941D-1E9D-411A-AC33-B5F29C049585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907D941D-1E9D-411A-AC33-B5F29C049585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907D941D-1E9D-411A-AC33-B5F29C049585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907D941D-1E9D-411A-AC33-B5F29C049585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907D941D-1E9D-411A-AC33-B5F29C049585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9934A9-5F76-478A-8848-58E2CB5235A4}
+	EndGlobalSection
+EndGlobal
